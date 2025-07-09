@@ -1,0 +1,19 @@
+E-mail
+
+joao@teste.pt
+
+Senha
+
+pass123456
+
+
+
+////////////////////////////
+
+npx expo start --clear
+
+///////
+npx expo start --tunnel
+
+///
+npx expo start --lan
